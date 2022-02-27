@@ -1,0 +1,5 @@
+let nickname = "";
+
+function Lobby() {
+    
+}
